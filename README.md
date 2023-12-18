@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <h3 align="center">
   Welcome to Ibrahim Nabil's profile!
