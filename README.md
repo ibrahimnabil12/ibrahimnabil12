@@ -20,6 +20,8 @@
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)&nbsp;
 
 
 <!-- Add any additional technologies you want to showcase -->
