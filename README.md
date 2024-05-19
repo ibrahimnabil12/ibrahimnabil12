@@ -17,13 +17,15 @@
 - 🐦 Follow me on Twitter: [Ibrahim Nabil](https://twitter.com/ibrahimnabil133)
 
 ### 🛠 &nbsp;Tech Stack
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logoColor=white)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logoColor=white)&nbsp;
-![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logoColor=white)&nbsp;
-![API](https://img.shields.io/badge/-API-05122A?style=flat&logoColor=white)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge&logo=linq&logoColor=white" alt="LINQ">
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=mvc&logoColor=white" alt="MVC">
+  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="API">
+</p>
 
 <!-- Add any additional technologies you want to showcase -->
 
@@ -33,9 +35,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ibrahimnabil13" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ibrahimnabil133" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/>
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
   </a>
 </p>
