@@ -17,14 +17,14 @@
 - 🐦 Follow me on Twitter: [Ibrahim Nabil](https://twitter.com/ibrahimnabil133)
 
 ### 🛠 &nbsp;Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" style="height: 20px;">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="height: 20px;">
-  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="height: 20px;">
-  <img src="https://img.shields.io/badge/LINQ-000000?style=for-the-badge&logo=linq&logoColor=white" alt="LINQ" style="height: 20px;">
-  <img src="https://img.shields.io/badge/Entity%20Framework-000000?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" style="height: 20px;">
-  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=mvc&logoColor=white" alt="MVC" style="height: 20px;">
-  <img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white" alt="API" style="height: 20px;">
+<p align="left" style="margin-left: 20px;">
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" style="height: 25px;">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="height: 25px;">
+  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="height: 25px;">
+  <img src="https://img.shields.io/badge/LINQ-000000?style=for-the-badge&logo=linq&logoColor=white" alt="LINQ" style="height: 25px;">
+  <img src="https://img.shields.io/badge/Entity%20Framework-000000?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework" style="height: 25px;">
+  <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=mvc&logoColor=white" alt="MVC" style="height: 25px;">
+  <img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white" alt="API" style="height: 25px;">
 </p>
 
 <!-- Add any additional technologies you want to showcase -->
@@ -33,7 +33,7 @@
 
 ### Connect with Me:
 
-<p align="center">
+<p align="left" style="margin-left: 20px;">
   <a href="https://linkedin.com/in/ibrahimnabil13" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png" alt="LinkedIn"/>
   </a>
