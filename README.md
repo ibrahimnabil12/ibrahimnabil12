@@ -35,9 +35,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ibrahimnabil13" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios/50/000000/linkedin-circled--v1.png" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ibrahimnabil133" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
+    <img src="https://img.icons8.com/ios/50/000000/twitter-circled--v1.png" alt="Twitter"/>
   </a>
 </p>
