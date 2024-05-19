@@ -40,4 +40,7 @@
   <a href="https://twitter.com/ibrahimnabil133" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/twitter-circled--v1.png" alt="Twitter"/>
   </a>
+  <a href="https://www.facebook.com/ibrahimnabil12x/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/facebook--v1.png" alt="Facebook"/>
+  </a>
 </p>
