@@ -17,23 +17,25 @@
 - 🐦 Follow me on Twitter: [Ibrahim Nabil](https://twitter.com/ibrahimnabil133)
 
 ### 🛠 &nbsp;Tech Stack
-![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat)&nbsp;
-![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat)&nbsp;
-![API](https://img.shields.io/badge/-API-05122A?style=flat)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logoColor=white)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logoColor=white)&nbsp;
+![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logoColor=white)&nbsp;
+![API](https://img.shields.io/badge/-API-05122A?style=flat&logoColor=white)&nbsp;
 
 <!-- Add any additional technologies you want to showcase -->
 
 <!-- Add the rest of the original content below -->
 
-### Connect with Me :
+### Connect with Me:
 
-<a href="https://linkedin.com/in/ibrahimnabil13" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Nabil-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/ibrahimnabil133" target="_blank"><img src="https://img.shields.io/badge/-Ibrahim%20Nabil-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-
-<a href="https://www.buymeacoffee.com/ibrahimnabil12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<!-- Add the rest of the original content below -->
+<p align="center">
+  <a href="https://linkedin.com/in/ibrahimnabil13" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ibrahimnabil133" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+</p>
